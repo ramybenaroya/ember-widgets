@@ -1,7 +1,7 @@
 {
   "name": "ember-widgets",
   "version": "0.0.1",
-  "main": ["dist/ember-widgets.js", "dist/ember-widgets.min.js", "dist/ember-widgets.css"],
+  "main": ["img", "dist/ember-widgets.js", "dist/ember-widgets.min.js", "dist/ember-widgets.css"],
   "ignore": [
     ".jshintrc",
     "**/*.txt",
